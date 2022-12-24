@@ -13,6 +13,7 @@
 
     <div class="slds-m-around_xx-large">
         <c:sampleLookupContainer notifyViaAlerts="true"/>
+        <c:
     </div>
 
 </aura:application>
